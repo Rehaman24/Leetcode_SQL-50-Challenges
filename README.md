@@ -21,3 +21,7 @@ Each problem is solved in standard SQL with clear comments and explanation.
 
 ## 🚀 Purpose
 This repo is part of my **data engineering interview preparation** and also serves as a public **portfolio project** to demonstrate SQL problem-solving skills.
+
+### Problem 1: Recyclable and Low Fat Products  
+[LeetCode Link](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [Solution](problem_01_recyclable_low_fat_products.sql)
+

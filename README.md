@@ -75,6 +75,9 @@ This repo is part of my **data engineering interview preparation** and also serv
 ### Problem 17: Project Employees I
 [LeetCode Link](https://leetcode.com/problems/project-employees-i/) | [Solution](problem_17_project%20employees.sql)
 
+### Problem 18: Percentage of Users Attended a Contest
+[LeetCode Link](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [Solution](problem_18_percentage_user_attended.sql)
+
 
 
 

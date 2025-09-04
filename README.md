@@ -69,7 +69,7 @@ This repo is part of my **data engineering interview preparation** and also serv
 
 
 ### Problem 16: Average Selling Price  
-[LeetCode Link](https://leetcode.com/problems/average-selling-price/) | [Solution](problem_16_average_selling_price.sql)
+[LeetCode Link](https://leetcode.com/problems/average-selling-price/) | [Solution](problem_16_Average_selling_price.sql)
 
 
 

@@ -72,6 +72,10 @@ This repo is part of my **data engineering interview preparation** and also serv
 [LeetCode Link](https://leetcode.com/problems/average-selling-price/) | [Solution](problem_16_average_selling_price.sql)
 
 
+### Problem 17: Project Employees I
+[LeetCode Link](https://leetcode.com/problems/project-employees-i/) | [Solution](problem_17_project%20employees.sql)
+
+
 
 
 

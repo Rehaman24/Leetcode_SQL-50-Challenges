@@ -6,7 +6,6 @@
 --   3. Divide revenue by units to get average price, round to 2 decimal places.
 --   4. Use COALESCE/IFNULL to return 0 when there are no sales.
 
-# Write your MySQL query statement below
 
 select p.product_id,
 ifnull(round(sum(p.price * u.units) / sum(u.units),2),0) as average_price

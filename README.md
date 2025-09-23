@@ -78,6 +78,15 @@ This repo is part of my **data engineering interview preparation** and also serv
 ### Problem 18: Percentage of Users Attended a Contest
 [LeetCode Link](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [Solution](problem_18_percentage_user_attended.sql)
 
+### Problem 19: Queries Quality and Percentage  
+[LeetCode Link](https://leetcode.com/problems/queries-quality-and-percentage/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_19_queries_quality_and_percentage.sql)
+
+### Problem 20: Monthly Transactions I  
+[LeetCode Link](https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_20_monthly_transactions_i.sql)
+
+### Problem 21: Immediate Food Delivery II  
+[LeetCode Link](https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_21_immediate_food_delivery_ii.sql)
+
 
 
 

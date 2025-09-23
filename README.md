@@ -111,6 +111,49 @@ This repo is part of my **data engineering interview preparation** and also serv
 ### Problem 29: Customers Who Bought All Products  
 [LeetCode Link](https://leetcode.com/problems/customers-who-bought-all-products/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_29_customers_who_bought_all_products.sql)
 
+### Problem 30: The Number of Employees Which Report to Each Employee  
+[LeetCode Link](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_30_the_number_of_emplo)
+
+### Problem 31: Primary Department for Each Employee  
+[LeetCode Link](https://leetcode.com/problems/primary-department-for-each-employee/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_31_primary_de)
+
+### Problem 32: Triangle Judgement  
+[LeetCode Link](https://leetcode.com/problems/triangle-judgement/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_32_triangle_judgement.sql)
+
+### Problem 33: Consecutive Numbers  
+[LeetCode Link](https://leetcode.com/problems/consecutive-numbers/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_33_consecutive_numbers.sql)
+
+### Problem 34: Product Price at a Given Date  
+[LeetCode Link](https://leetcode.com/problems/product-price-at-a-given-date/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_34_product_price_at_a_given_date.sql)
+
+### Problem 35: Last Person to Fit in the Bus  
+[LeetCode Link](https://leetcode.com/problems/last-person-to-fit-in-the-bus/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_35_last_person_to_fit_in_the_bus.sql)
+
+### Problem 36: Count Salary Categories  
+[LeetCode Link](https://leetcode.com/problems/count-salary-categories/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_36_count_salary_categories.sql)
+
+### Problem 37: Employees Whose Manager Left the Company  
+[LeetCode Link](https://leetcode.com/problems/employees-whose-manager-left-the-company/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_37_employees_whose_manager_left_the_company.sql)
+
+### Problem 38: Exchange Seats  
+[LeetCode Link](https://leetcode.com/problems/exchange-seats/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_38_exchange_seats.sql)
+
+### Problem 39: Movie Rating  
+[LeetCode Link](https://leetcode.com/problems/movie-rating/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_39_movie_rating.sql)
+
+### Problem 40: Restaurant Growth  
+[LeetCode Link](https://leetcode.com/problems/restaurant-growth/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_40_restaurant_growth.sql)
+
+### Problem 41: Friend Requests II: Who Has the Most Friends  
+[LeetCode Link](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_41_friend_requests_ii_who_has_the_most_friends.sql)
+
+### Problem 42: Investments in 2016  
+[LeetCode Link](https://leetcode.com/problems/investments-in-2016/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_42_investments_in_2016.sql)
+
+### Problem 43: Department Top Three Salaries  
+[LeetCode Link](https://leetcode.com/problems/department-top-three-salaries/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_43_department_top_three_salaries.sql)
+
+
 
 
 

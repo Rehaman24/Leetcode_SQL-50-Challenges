@@ -87,6 +87,30 @@ This repo is part of my **data engineering interview preparation** and also serv
 ### Problem 21: Immediate Food Delivery II  
 [LeetCode Link](https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_21_immediate_food_delivery_ii.sql)
 
+### Problem 22: Game Play Analysis IV  
+[LeetCode Link](https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_22_game_play_analysis_iv.sql)
+
+### Problem 23: Number of Unique Subjects Taught by Each Teacher  
+[LeetCode Link](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_23_number_of_unique_subjects_taught_by_each_teacher.sql)
+
+### Problem 24: User Activity for the Past 30 Days I  
+[LeetCode Link](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_24_user_activity_for_the_past_30_days_i)
+
+### Problem 25: Product Sales Analysis III  
+[LeetCode Link](https://leetcode.com/problems/product-sales-analysis-iii/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_25_product_sales_analysis_iii.sql)
+
+### Problem 26: Classes with at Least 5 Students  
+[LeetCode Link](https://leetcode.com/problems/classes-with-at-least-5-students/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_26_classes_with_at_least_5_students.sql)
+
+### Problem 27: Find Followers Count  
+[LeetCode Link](https://leetcode.com/problems/find-followers-count/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_27_find_followers_count.sql)
+
+### Problem 28: Biggest Single Number  
+[LeetCode Link](https://leetcode.com/problems/biggest-single-number/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_28_biggest_single_number.sql)
+
+### Problem 29: Customers Who Bought All Products  
+[LeetCode Link](https://leetcode.com/problems/customers-who-bought-all-products/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_29_customers_who_bought_all_products.sql)
+
 
 
 

@@ -153,6 +153,28 @@ This repo is part of my **data engineering interview preparation** and also serv
 ### Problem 43: Department Top Three Salaries  
 [LeetCode Link](https://leetcode.com/problems/department-top-three-salaries/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_43_department_top_three_salaries.sql)
 
+### Problem 44: Fix Names in a Table  
+[LeetCode Link](https://leetcode.com/problems/fix-names-in-a-table/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_44_fix_names_in_a_table.sql)
+
+### Problem 45: Patients With a Condition  
+[LeetCode Link](https://leetcode.com/problems/patients-with-a-condition/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_45_patients_with_a_condition.sql)
+
+### Problem 46: Delete Duplicate Emails  
+[LeetCode Link](https://leetcode.com/problems/delete-duplicate-emails/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_46_delete_duplicate_emails.sql)
+
+### Problem 47: Second Highest Salary  
+[LeetCode Link](https://leetcode.com/problems/second-highest-salary/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_47_second_highest_salary.sql)
+
+### Problem 48: Group Sold Products by the Date  
+[LeetCode Link](https://leetcode.com/problems/group-sold-products-by-the-date/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_48_group_sold_products_by_the_date.sql)
+
+### Problem 49: List the Products Ordered in a Period  
+[LeetCode Link](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_49_list_the_products_ordered_in_a_period.sql)
+
+### Problem 50: Find Users With Valid E-Mails  
+[LeetCode Link](https://leetcode.com/problems/find-users-with-valid-e-mails/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](https://github.com/Rehaman24/Leetcode_SQL-50-Challenges/blob/main/problem_50_find_users_with_valid_emails.sql)
+
+
 
 
 
